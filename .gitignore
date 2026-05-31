@@ -1,0 +1,48 @@
+# Runtime data
+data/
+tmp/
+build/
+dist/
+release/
+release-*/
+release-working/
+release-*-build/
+release-*-verify/
+release-*-final/
+shadow-showcase-public/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Node
+node_modules/
+.npm/
+.pnpm-store/
+npm-cache/
+*.tsbuildinfo
+
+# Local app outputs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Local configs / secrets
+.env
+.env.*
+shadow_music_site/config.json
+shadow_music_models/config.json
+
+# Legacy / scratch
+*.ipynb_checkpoints
+Thumbs.db
+Desktop.ini
+
