@@ -1,12 +1,12 @@
+## 下载 / Release
+
+项目便携版（直接体验功能）可在这里下载：
+
+[前往 Releases 页面](https://github.com/3061084478/shadow-showcase-public/releases)
+
 # Shadow
 
 Shadow 是一个围绕网易云音乐私信与歌曲分享场景构建的本地化 Web 应用。它把聊天归档、音乐关系分析、影子歌单生成、未知歌曲最小字段贡献、公共映射增量更新串成一条完整体验，重点放在真实数据、隐私边界和可持续迭代上。
-
-## 下载 / Release
-
-项目打包版本可在这里下载：
-
-[前往 Releases 页面](https://github.com/3061084478/shadow-showcase-public/releases)
 
 ## 项目亮点
 
