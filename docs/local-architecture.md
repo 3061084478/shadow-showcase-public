@@ -21,7 +21,7 @@ Shadow 的核心逻辑运行在本地：
 
 ## 主要模块
 
-- `shadow (2)`：前端页面、组件、样式与 API 适配
+- `shadow-web`：前端页面、组件、样式与 API 适配
 - `shadow_music_site`：HTTP 服务、数据访问、归档、查询、影子歌单、unknown 贡献、mapping sync
 - `shadow_music_models`：映射数据结构、delta 计算与训练更新脚本
 
